@@ -22,7 +22,8 @@ public class Main {
         }
 
         for (String s : map.keySet()) {
-            System.out.println(s);
+            System.out.println("Klucz: " + s);
+            System.out.println("Wartosc: "  + map.get(s));
         }
 
         for (Map.Entry<String, Integer> stringIntegerEntry : map.entrySet()) {
