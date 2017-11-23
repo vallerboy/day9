@@ -5,13 +5,6 @@ import java.util.Map;
 
 public class Task2 {
     public static void main(String[] args) {
-
-
-
-
-
-
-
         Map<Integer, Integer> map = new HashMap<>();
         int[] ints = {1,1,1,1,2};
 
